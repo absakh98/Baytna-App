@@ -1,6 +1,6 @@
 {
   "latest_version": "30.4",
   "apk_url": "https://download1348.mediafire.com/g6yb7rbutp6gCCimKic-AYRycGUo-g6_5Uthx_wGYGdDueJlwlZOehh-BtRV80b-u8_Ht2putJ1A7k8bmnHjzz6Gq5dzHguwurecrhoumZJFNtvfb0W4L6qWQ2ByO_2GSQd1ehdpWpahaJ3ljqNOfTCFoy1xf_XsWrtQHz70C3JJ8MF2/j1usn9wzpuac10c/Baytna30.4.apk",
-"update_type": "force"
+  "force_update": true,
   "release_notes": "تم اضافة مميزات وتحسينات جديدة، تم اصلاح بعض المشاكل، للاطلاع على التفاصيل أكثر الرجاء التوجه الى قناة الإدارة."
 }
