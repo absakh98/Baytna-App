@@ -1,22 +1,22 @@
 {
-  "version_name": "50.4",
-  "version_code": 155,
+  "version_name": "50.5",
+  "version_code": 156,
 
-  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/50.4/Baytna50.4.apk",
+  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/50.5/Baytna50.5.apk",
 
-  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/50.4/Baytna50.4.apk",
+  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/50.5/Baytna50.5.apk",
 
   "force_update": true,
 
   "update_type": "patch",
 
-  "from_version": "50.3",
+  "from_version": "50.4",
 
-  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/50.4/patch_50.3_to_50.4.patch",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/50.5/patch_50.4_to_50.5.patch",
 
-  "patch_size": 8200611,
+  "patch_size": 4661718,
 
-  "sha256": "56850687ee0418f02bc8f6dc967d37e85913e08ad6922dfd8af0494bca74d68e",
+  "sha256": "d9e7169c79d3e85bdf7fedfb29f61d667e383583e5f919979ab4ff3be7e15988",
 
-  "release_notes": "🎉 تحديث 50.4\n\n✅ إضافة دعم التحديثات الجزئية Patch Updates.\n✅ تحسينات عامة في الأداء والاستقرار.\n🛠️ إصلاح عدد من المشاكل التقنية.\n\n💙 شكراً لدعمكم وملاحظاتكم."
+  "release_notes": "🎉 تحديث 50.5\n\n✅ إضافة دعم التحديثات الجزئية Patch Updates.\n✅ تحسينات عامة في الأداء والاستقرار.\n🛠️ إصلاح عدد من المشاكل التقنية.\n\n💙 شكراً لدعمكم وملاحظاتكم."
 }
