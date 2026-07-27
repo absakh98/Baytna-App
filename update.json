@@ -1,6 +1,6 @@
 {
-  "version_name": "51.1",
-  "version_code": 162,
+  "version_name": "51.3",
+  "version_code": 163,
 
   "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.1/Baytna51.1.apk",
 
@@ -10,13 +10,13 @@
 
   "update_type": "patch",
 
-  "from_version": "51.0",
+  "from_version": "51.1",
 
-  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/51.1/patch_51.0_to_51.1.patch",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/51.3/patch_51.1_to_51.3.patch",
 
-  "patch_size": 8165,
+  "patch_size": 8386173,
 
-  "sha256": "cfd5d88e650aacc901516ad9193f8a92f36e02a1fccc105d0d21859f558852c0",
+  "sha256": "2ddf74c24facc022e74b8c1e2679da5819dd11efbab7385a82cedaca60a2a436",
 
-  "release_notes": "🎉 تحديث 51.1\n\n✅ إضافة دعم التحديثات الجزئية Patch Updates.\n✅ تحسينات عامة في الأداء والاستقرار.\n🛠️ إصلاح عدد من المشاكل التقنية.\n\n💙 شكراً لدعمكم وملاحظاتكم."
+  "release_notes": "🎉 تحديث 51.3\n\n✅ تم اصلاح المكالمات الصوتية والمرئية في اليمن.\n✅ تحسينات عامة في الأداء والاستقرار.\n🛠️ إصلاح عدد من المشاكل التقنية.\n\n💙 شكراً لدعمكم وملاحظاتكم."
 }
