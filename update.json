@@ -6,7 +6,7 @@
 
   "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.8/Baytna51.8.apk",
 
-  "force_update": false,
+  "force_update": true,
 
   "update_type": "patch",
 
