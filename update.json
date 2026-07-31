@@ -6,7 +6,7 @@
 
   "full_apk_url": "",
 
-  "force_update": true,
+  "force_update": false,
 
   "update_type": "patch",
 
