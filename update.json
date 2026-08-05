@@ -1,22 +1,22 @@
 {
-  "version_name": "51.8",
-  "version_code": 167,
+  "version_name": "51.9",
+  "version_code": 168,
 
-  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.8/Baytna51.8.apk",
+  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.9/Baytna51.9.apk",
 
-  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.8/Baytna51.8.apk",
+  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/51.9/Baytna51.9.apk",
 
   "force_update": true,
 
   "update_type": "patch",
 
-  "from_version": "51.7",
+  "from_version": "51.8",
 
-  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/51.8/patch_51.7_to_51.8.patch",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/51.9/patch_51.8_to_51.9.patch",
 
-  "patch_size": 8890437,
+  "patch_size": 9004789,
 
-  "sha256": "7305feb414ce54f71ff2d73f33e560d88168df228c11eff2740ace3f080332b0",
+  "sha256": "ff731e5f48d3b5b9e34a2c506247afc1311207662bef0d67a7764528070df07c",
 
-  "release_notes": "🎉 تحديث 51.8\n\n✅ تم اصلاح المكالمات الصوتية والمرئية في اليمن.\n✅ تحسينات عامة في الأداء والاستقرار.\n🛠️ إصلاح عدد من المشاكل التقنية.\n\n💙 شكراً لدعمكم وملاحظاتكم."
+"release_notes": "🎉 تحديث 51.9\n🆕 ألعاب جماعية جديدة.\n📞 تحسين المكالمات والاتصال.\n⚡ تحسين الأداء والاستقرار."
 }
