@@ -1,22 +1,22 @@
 {
-  "version_name": "52.2",
-  "version_code": 171,
+  "version_name": "52.3",
+  "version_code": 172,
 
-  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/52.2/Baytna52.2.apk",
+  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/52.3/Baytna52.3.apk",
 
-  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/52.2/Baytna52.2.apk",
+  "full_apk_url": "https://github.com/absakh98/Baytna-App/releases/download/52.3/Baytna52.3.apk",
 
   "force_update": true,
 
   "update_type": "patch",
 
-  "from_version": "52.1",
+  "from_version": "52.2",
 
-  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/52.2/patch_52.1_to_52.2.patch",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/52.3/patch_52.2_to_52.3.patch",
 
-  "patch_size": 71636671,
+  "patch_size": 128329327,
 
-  "sha256": "068eb55e2d8d6f6f7d0c0670825e12824ddeb3742b0926bc288868b436d3cf13",
+  "sha256": "d7c452c893a23396b0550991cfa76d95b0faac9b8d79c15e31715d16080c2052",
 
-"release_notes": "🎉 تحديث 52.2\n🆕 اضافة العاب جديدة .\n⚡ اضافة المزيد من الاضافات وتحسين الأداء والاستقرار."
+"release_notes": "🎉 تحديث 52.3\n🆕 اضافة العاب جديدة .\n⚡ اضافة المزيد من الاضافات وتحسين الأداء والاستقرار."
 }
