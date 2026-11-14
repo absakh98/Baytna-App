@@ -1,11 +1,14 @@
 {
-  "version_name": "55.0",
-  "version_code": 174,
-  "minimum_supported_version_code": 174,
-  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0/Baytna55.0.apk",
+  "version_name": "55.0.1",
+  "version_code": 175,
+  "minimum_supported_version_code": 175,
+  "update_type": "patch",
+  "from_version": "55.0",
+  "sha256": "99a3d69af2d721b40cf1ca3f3a1e1042cb4e5f9cfe7edb5e76a088c6e33422be",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.1/patch_55.0_to_55.0.1.patch",
+  "patch_size": 10175218,
+  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.1/Baytna55.0.1.apk",
+  "apk_size": 403922763,
   "force_update": true,
-  "release_notes": "تغيير واجهة التطبيق وتحسين الحماية واضافة العاب جديدة واقسام جديدة اكتشفها بنفسك.",
-  "apk_size": 403906383,
-  "release_date": 1794578400000,
-  "update_type": "apk"
+  "release_notes": "تغيير واجهة التطبيق وتحسين واصلاح الحماية واضافة العاب جديدة واقسام جديدة اكتشفها بنفسك."
 }
