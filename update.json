@@ -1,14 +1,14 @@
 {
-  "version_name": "55.0.2",
-  "version_code": 176,
-  "minimum_supported_version_code": 176,
+  "version_name": "55.0.3",
+  "version_code": 177,
+  "minimum_supported_version_code": 177,
   "update_type": "patch",
-  "from_version": "55.0.1",
-  "sha256": "29e4803c9d20f51709a219c0f8de8fb3f28d73cb8c58fe02b2d53b2ec0a7cdb9",
-  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.2/patch_55.0.1_to_55.0.2.patch",
-  "patch_size": 16357142,
-  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.2/Baytna55.0.2.apk",
-  "apk_size": 327928257,
+  "from_version": "55.0.2",
+  "sha256": "6b4702950836a212a4f4e9f53cc00607b36d388b66ec9be11d12b604dd430e50",
+  "patch_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.3/patch_55.0.2_to_55.0.3.patch",
+  "patch_size": 20781720,
+  "apk_url": "https://github.com/absakh98/Baytna-App/releases/download/55.0.3/Baytna55.0.3.apk",
+  "apk_size": 338205438,
   "force_update": true,
-  "release_notes": "✨ تحسين وتطوير لعبة عالم بيتنا الافتراضي.🎮 إضافة لعبة جديدة كليًا باسم كلمات بيتنا. 🎁 إضافة مسابقة جديدة ومميزة.🥇 إضافة نظام الشارات والأوسمة. والمزيد"
+  "release_notes": "تحسينات جديدة واضافات جديدة وتحسين تجربة المستخدم"
 }
