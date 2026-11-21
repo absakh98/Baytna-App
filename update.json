@@ -1,7 +1,7 @@
 {
-  "version_name": "55.0.4",
-  "version_code": 178,
-  "minimum_supported_version_code": 178,
+  "version_name": "55.0.3",
+  "version_code": 177,
+  "minimum_supported_version_code": 177,
   "update_type": "patch",
   "from_version": "55.0.2",
   "sha256": "6b4702950836a212a4f4e9f53cc00607b36d388b66ec9be11d12b604dd430e50",
